@@ -1,10 +1,4 @@
-HI AM DHARANI- 👋 Hi, I’m @Dharani117
-AM CODING- 👀 I’m interested in ...
-CLOUD COMPUTING- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Dharani117/Dharani117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi am dharani.
+I'm intrested in cloud computing.
+i am currently learning coding.
+i am studing engineering.
